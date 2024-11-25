@@ -1,0 +1,5 @@
+1. computer fundamentals (comtia)
+2. computer networking
+3. linux/unix
+4. programming (like php,html/css,*javascript*,sql,graphql,json) (python,c,c++,java)
+
